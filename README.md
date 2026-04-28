@@ -12,7 +12,7 @@ Bài lab bám theo luồng hệ thống trong file hướng dẫn: Sender tạo 
 - Khi demo, giảng viên có thể hỏi chéo bất kỳ thành viên nào về **sender**, **receiver**, **DES-CBC**, **padding**, **threat model** và **ethics**.
 
 ## Team members
-- **Thành viên 1**: TODO_MEMBER_1 - MSSV: TODO_MEMBER_1_ID
+- **Thành viên 1**: Phạm Phương Anh - MSSV: 1871020062
 - **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
 
 ## Task division
