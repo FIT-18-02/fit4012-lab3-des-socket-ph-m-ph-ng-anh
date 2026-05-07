@@ -21,6 +21,7 @@ Nhóm triển khai hệ thống gồm ba thành phần chính:
 - Receiver: Lắng nghe tại cổng 6001, bóc tách gói tin để lấy Key/IV nhằm giải mã chính xác bản tin nhận được.
  Hệ thống được kiểm thử bằng cách chạy song song hai Terminal trong VS Code để quan sát luồng dữ liệu thời gian thực.
 ## Kết quả
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17c35ccb-7af5-49a7-862f-6bd7fa1c78eb" />
 - Minh chứng: Phía Receiver đã giải mã thành công bản tin với nội dung: Xin chao FIT4012 - Day la tin nhan mat.
 
 - Log: Các thông số Key, IV và Ciphertext được in ra chi tiết ở phía Sender trước khi gửi.
