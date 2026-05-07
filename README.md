@@ -13,17 +13,17 @@ Bài lab bám theo luồng hệ thống trong file hướng dẫn: Sender tạo 
 
 ## Team members
 - **Thành viên 1**: Phạm Phương Anh - MSSV: 1871020062
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 2**: Vũ Quốc Anh - MSSV: 1871020066
 
 ## Task division
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
+- **Thành viên 1 phụ trách chính**: Crypto
+- **Thành viên 2 phụ trách chính**: Socket
+- **Phần làm chung**: Testing, Docs, Logs & Demo
 
 ## Demo roles
-- **Bạn nào demo Sender / gói tin / log gửi**: TODO_DEMO_ROLE_1
-- **Bạn nào demo Receiver / giải mã / log nhận**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời threat model và ethics**: TODO_DEMO_ROLE_SHARED
+- **Bạn nào demo Sender / gói tin / log gửi**: Phạm Phương Anh
+- **Bạn nào demo Receiver / giải mã / log nhận**: Vũ Quốc Anh
+- **Cả hai cùng trả lời threat model và ethics**: Phạm Phương Anh & Vũ Quốc Anh
 
 ## Mục tiêu học tập
 - Hiểu luồng hoạt động của hệ thống Sender/Receiver qua TCP socket.
